@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an designer turned developer currently studying at [Digital Career Institute.](https://digitalcareerinstitute.org/ "Digital Career Institute.")
+I'm a designer turned developer currently studying at [Digital Career Institute.](https://digitalcareerinstitute.org/ "Digital Career Institute.")
 
 - 🔭 I’m currently working on my development portfolio and some new animations 
 - 🌱 I’m currently learning three.js
